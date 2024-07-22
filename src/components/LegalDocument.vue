@@ -1,5 +1,5 @@
 <template>
-	<div id="content" v-html="content"></div>
+	<div id="content" v-html="content" class="p-8 md:px-64"></div>
 </template>
 <script>
 	import markdownIt from 'markdown-it';
@@ -33,12 +33,6 @@
 	};
 </script>
 <style>
-	@import url('@/assets/base.css');
-
-	div#content, footer {
-		padding: 32px 20%;
-	}
-
 	div#content h1,
 	div#content h2,
 	div#content h3,
@@ -62,7 +56,7 @@
 	}
 
 	div#content h2 {
-		color: var(--secondary);
+		color: #3257ec;
 		font-size: 24px;
 		font-weight: 700;
 		text-align: center;
@@ -70,7 +64,7 @@
 	}
 
 	div#content h3 {
-		color: var(--tertiary);
+		color: #26ce85;
 		font-size: 20px;
 		font-weight: 700;
 	}
@@ -100,14 +94,14 @@
 
 	div#content table {
 		border-radius: 12px;
-		background-color: var(--background-box);
+		/* background-color */
 		width: 100%;
 		overflow: hidden;
 		border-spacing: 0;
 	}
 
 	div#content th {
-		background-color: var(--primary);
+		background-color: #ffb800;
 		color: white;
 		padding: 8px 16px;
 	}

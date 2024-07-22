@@ -1,3 +1,5 @@
+@tailwind base;
+
 :root {
 	--primary: #ffb800;
 	--secondary: #3257ec;
@@ -30,7 +32,5 @@ body {
 	color: var(--text-color);
 }
 
-a {
-	color: var(--secondary);
-	text-decoration: none;
-}
+@tailwind utilities;
+@tailwind variants;

@@ -1,12 +1,12 @@
 {
   "name": "website",
-  "version": "0.0.0",
-  "private": true,
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "dev": "start vite && npx tailwindcss -i ./src/assets/base.css -o ./dist/output.css --watch",
+    "build": "npm run tw ; vite build",
+    "preview": "vite preview",
+    "tw": "npx tailwindcss -i ./src/assets/base.css -o ./dist/output.css"
   },
   "dependencies": {
     "axios": "^1.7.2",
@@ -16,6 +16,9 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.6",
     "vite": "^5.3.1",
     "vite-plugin-vue-devtools": "^7.3.1"
   }
