@@ -1,0 +1,36 @@
+:root {
+	--primary: #ffb800;
+	--secondary: #3257ec;
+	--tertiary: #26ce85;
+	
+	--text-color: #040b12;
+	--secondary-text-color: #ffffff;
+
+	--background-page: #f4f5f7;
+	--background-primary: var(--primary);
+	--background-secondary: var(--secondary)
+	--background-tertiary: var(--tertiary)
+}
+
+@media only screen and (prefers-color-scheme: dark) {
+	:root {
+		--text-color: #ffffff;
+		--background-page: #0d0f15;
+	}
+}
+
+* {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: var(--background-page);
+	color: var(--text-color);
+}
+
+a {
+	color: var(--secondary);
+	text-decoration: none;
+}

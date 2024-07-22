@@ -1,0 +1,36 @@
+@import url('./base.css');
+
+footer {
+    background-color: var(--background-primary);
+    color: white;
+    padding: 32px;
+}
+
+footer a {
+    color: white;
+}
+
+.footer-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-col h3 {
+    padding-bottom: 16px;
+}
+
+header {
+    background-color: var(--background-primary);
+    color: white;
+    text-align: center;
+
+    padding: 32px;
+}
+
+header > * {
+    margin-top: 24px;
+}
+
+header :first-child {
+    margin-top: 0;
+}
