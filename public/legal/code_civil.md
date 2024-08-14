@@ -32,12 +32,12 @@ Les dérogations listées ci-dessous peuvent s'appliquer pour des périodes, des
 
 ### Administrateurs
 
-Les administrateurs ne sont pas soumis aux règles précédentes. Il doivent cependant rester respectueux envers tous les membres et agir dans l'intérêt de tous.
+- Les administrateurs ne sont pas soumis aux règles précédentes. Il doivent cependant rester respectueux envers tous les membres et agir dans l'intérêt de tous.
 
-### Salon « partages »
+### Mentions spéciale pour la publicité
 
-Le salon Partages autorise la publicité (hors serveurs Discord) dans la limite d'une publicité toutes les 6 heures.
+- La publicité (hors serveurs Discord) est autorisée dans les salons présentant une mention "Publicité autorisée" ou similaire dans leur description, avec une limite d'une publicité toutes les 6 heures.
 
 ### Salons NSFW
 
-Dans le cas où il existerait un ou plusieurs salons NSFW, le partage de contenu dans ces salons serait un peu moins restreint mais vos messages doivent à tout prix rester adaptés aux personnes mineures.
+- Dans le cas où il existerait un ou plusieurs salons NSFW, le partage de contenu dans ces salons serait un peu moins restreint mais vos messages doivent à tout prix rester adaptés aux personnes mineures.

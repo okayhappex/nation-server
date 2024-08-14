@@ -51,9 +51,9 @@
 ## Procédure de signalement et de sanction
 
 ### Signaler une sanction
-- Tout membre peut signaler un comportement inapproprié aux modérateurs ou administrateurs en utilisant la fonctionnalité prévue à cet effet.
+- Un membre peut signaler un comportement inapproprié aux modérateurs ou administrateurs en utilisant la fonctionnalité prévue à cet effet.
 - Les signalements doivent être faits de manière privée pour éviter tout conflit public.
 
 ### Enquête et décision
-- Conformément à l'**Article 5C.1** de la [Constitution](/page/constitution)
-- Les sanctions seront décidées en fonction de la gravité de l'infraction et de l'historique du membre concerné.
+- Conformément à l'**Article 5C.1** de la [Constitution](/page/constitution), le Tribunal est chargé de la décision finale du sort d'un accusé.
+- Les sanctions seront décidées en fonction de la gravité de l'infraction et du passé du membre concerné. Aucun élément extérieur ne sera pris en compte, mais des signalements aux autorités compétentes peuvent être faits en cas de nécessité.
