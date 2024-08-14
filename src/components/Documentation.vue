@@ -16,7 +16,7 @@
 				const md = markdownIt();
 				const pageName = this.$route.params.name;
 				try {
-					const response = await axios.get(`/legal/${pageName}.md`);
+					const response = await axios.get(`/dev/nsa/${pageName}.md`);
 					this.content = md.render(response.data);
 				} catch (error) {
 					console.error('Error fetching the Markdown file:', error);

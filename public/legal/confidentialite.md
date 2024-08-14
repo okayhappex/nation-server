@@ -14,10 +14,15 @@ Nous collectons des données de plusieurs manières :
 ## 2- Types de Données Collectées
 Les types de données collectées incluent, mais ne sont pas limités à :
 - Informations de profil (pseudo, rôle, ID, etc.).
-- Historique des messages et interactions sur le serveur.
 - Données de compte en banque virtuel (HexaBank).
-- Résultats de votes et participations aux élections.
-**Les votes sont totalement anonymisés dans nos bases de données. Même si vos participations sont enregistrées, il est absolument impossible de récupérer vos réponses.**
+- Votes auxquels vous contribuez
+> **Les votes sont totalement anonymisés dans nos bases de données. Même si vos participations sont enregistrées, il est absolument impossible de récupérer vos réponses.**
+
+Les données listées ci-dessous seront destinées à des fins de modération et ne serons accessibles qu'aux administrateurs et aux juges:
+- Contenu des messages que vous supprimez et modifiez
+- Données de votre profil
+- Transactions bancaires
+- Sanctions
 
 ## 3- Utilisation des Données
 Les données collectées sont utilisées pour :
@@ -53,4 +58,4 @@ Les données collectées sont utilisées pour :
 ## 10- Contact
 Pour toute question ou demande concernant cette Charte de Confidentialité, les membres peuvent contacter les administrateurs du serveur via le salon dédié aux questions ou par message privé.
 
-**Cette charte est effective à partir du 22 juillet 2024.**
+> _Cette charte est effective à partir du 22 juillet 2024._
