@@ -17,7 +17,7 @@
 @media only screen and (prefers-color-scheme: dark) {
 	:root {
 		--text-color: #ffffff;
-		--background-page: #0d0f15;
+		--background-page: #09090b;
 	}
 }
 
@@ -34,3 +34,91 @@ body {
 
 @tailwind utilities;
 @tailwind variants;
+
+/* Markdown */
+
+#md h1,
+#md h2,
+#md h3,
+#md h4,
+#md h5,
+#md h6,
+#md p,
+#md li,
+#md blockquote {
+	display: block;
+	font-weight: 400;
+	padding: 2px 8px; 
+	margin: 16px 0;
+}
+
+#md h1 {
+	font-size: 36px;
+	font-weight: 700;
+	text-align: center;
+	margin: 64px 0;
+}
+
+#md h2 {
+	color: #3257ec;
+	font-size: 24px;
+	font-weight: 700;
+	text-align: center;
+	margin: 48px 0;
+}
+
+#md h3 {
+	color: #26ce85;
+	font-size: 20px;
+	font-weight: 700;
+}
+
+#md p {
+	text-align: justify;
+}
+
+#md strong {
+	font-weight: 700;
+}
+
+#md ul {
+	margin-bottom: 32px;
+}
+
+#md li {
+	display: list-item;
+	text-align: justify;
+	list-style-type: disc !important;
+	margin: 0;
+}
+
+#md > li > ul > li {
+	text-indent: 32px;
+}
+
+#md table {
+	border-radius: 12px;
+	/* background-color */
+	width: 100%;
+	overflow: hidden;
+	border-spacing: 0;
+}
+
+#md th {
+	background-color: #ffb800;
+	color: white;
+	padding: 8px 16px;
+}
+
+#md td {
+	padding: 8px 16px;
+}
+
+#md tr:nth-child(even) {
+	background-color: #cfcfcf;
+}
+
+#md > blockquote {
+	background-color: #cfcfcf50;
+	border-left: 4px solid #cfcfcfcf;
+}

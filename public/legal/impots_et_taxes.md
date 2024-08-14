@@ -20,9 +20,9 @@ _* Si la somme est prélevée sur le capital, alors le capital sera pris en comp
 
 ### Impôt égalitaire
 
-- **Type:** Impôt sur revenu
-- **Destination:** [Budget égalitaire](/help/budgets)
-- **Membres concernés:** Tous
+**Type:** Impôt sur revenu
+**Destination:** [Budget égalitaire](/help/budgets)
+**Membres concernés:** Tous
 
 | Montant T0 	| Montant T1 	| Montant T2 	| Montant T3 	| Montant T4  	|
 |-----------:	|-----------:	|-----------:	|-----------:	|------------:	|
@@ -30,9 +30,10 @@ _* Si la somme est prélevée sur le capital, alors le capital sera pris en comp
 
 ### Taxe « inactifs »
 
-- **Type:** Impôt sur fortune
-- **Destination:** [Budget égalitaire](/help/budgets)
-- **Membres concernés:** Citoyens n'ayant envoyé aucun message sur les 56 derniers jours
+**Type:** Impôt sur fortune
+**Destination:** [Budget égalitaire](/help/budgets)
+**Membres concernés:**
+- Citoyens n'ayant envoyé aucun message sur les 56 derniers jours
 
 | Montant T0 	| Montant T1 	| Montant T2 	| Montant T3 	| Montant T4  	|
 |-----------:	|-----------:	|-----------:	|-----------:	|------------:	|
@@ -47,9 +48,9 @@ _**Toutes ces primes ne seront versées qu'aux citoyens (membres ayant atteint l
 
 ### Aide d'Ajustement
 
-- **Récurrence:** 28 jours
-- **Provenance:** Budget égalitaire
-- **Citoyens éligibles:** Tous
+**Récurrence:** 28 jours
+**Provenance:** Budget égalitaire
+**Citoyens éligibles:** Tous
 
 | Coeff T0 	| Coeff T1 	| Coeff T2 	| Coeff T3 	| Coeff T4 	|
 |---------:	|---------:	|---------:	|---------:	|---------:	|
@@ -57,9 +58,9 @@ _**Toutes ces primes ne seront versées qu'aux citoyens (membres ayant atteint l
 
 ### Aide égalitaire
 
-- **Récurrence:** 28 jours
-- **Provenance:** Budget égalitaire
-- **Citoyens éligibles:** Tous
+**Récurrence:** 28 jours
+**Provenance:** Budget égalitaire
+**Citoyens éligibles:** Tous
 
 | Coeff T0 	| Coeff T1 	| Coeff T2 	| Coeff T3 	| Coeff T4 	|
 |---------:	|---------:	|---------:	|---------:	|---------:	|
