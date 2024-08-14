@@ -16,13 +16,13 @@
 	<main class="md:p-8 md:space-y-8">
 		<section id="lois" class="text-center space-y-6 md:w-3/4 md:mx-auto">
 			<h2 class="text-xl font-bold">Textes de loi</h2>
-			<div class="grid grid-cols-4 gap-2">
-				<RouterLink class="block place-content-center bg-black/10 text-sm font-medium rounded-xl h-32 duration-150 hover:bg-black/20" to="/page/constitution">Constitution</RouterLink>
-				<RouterLink class="block place-content-center bg-black/10 text-sm font-medium rounded-xl h-32 duration-150 hover:bg-black/20" to="/page/code_penal">Code pénal</RouterLink>
-				<RouterLink class="block place-content-center bg-black/10 text-sm font-medium rounded-xl h-32 duration-150 hover:bg-black/20" to="/page/code_civil">Code Civil</RouterLink>
-				<RouterLink class="block place-content-center bg-black/10 text-sm font-medium rounded-xl h-32 duration-150 hover:bg-black/20" to="/page/impots_et_taxes">Impôts et Taxes</RouterLink>
-				<RouterLink class="block place-content-center bg-black/10 text-sm font-medium rounded-xl h-32 duration-150 hover:bg-black/20" to="/page/confidentialite">Charte de Confidentialité</RouterLink>
-				<RouterLink class="block place-content-center bg-black/10 text-sm font-medium rounded-xl h-32 duration-150 hover:bg-black/20" to="/page/propriete">Droit à la Propriété</RouterLink>
+			<div class="grid grid-cols-5 gap-2">
+				<RouterLink class="block place-content-center bg-black/10 text-sm font-medium rounded-xl h-24 p-6 duration-150 hover:bg-black/20" to="/lois/constitution">Constitution</RouterLink>
+				<RouterLink class="block place-content-center bg-black/10 text-sm font-medium rounded-xl h-24 p-6 duration-150 hover:bg-black/20" to="/lois/code_penal">Code pénal</RouterLink>
+				<RouterLink class="block place-content-center bg-black/10 text-sm font-medium rounded-xl h-24 p-6 duration-150 hover:bg-black/20" to="/lois/code_civil">Code civil</RouterLink>
+				<RouterLink class="block place-content-center bg-black/10 text-sm font-medium rounded-xl h-24 p-6 duration-150 hover:bg-black/20" to="/lois/impots_et_taxes">Impôts et Taxes</RouterLink>
+				<RouterLink class="block place-content-center bg-black/10 text-sm font-medium rounded-xl h-24 p-6 duration-150 hover:bg-black/20" to="/lois/confidentialite">Charte de Confidentialité</RouterLink>
+				<RouterLink class="block place-content-center bg-black/10 text-sm font-medium rounded-xl h-24 p-6 duration-150 hover:bg-black/20" to="/lois/organisations">Code des Ventes et des Locations</RouterLink>
 			</div>
 		</section>
 	</main>

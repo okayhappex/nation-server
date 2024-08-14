@@ -98,7 +98,7 @@ body {
 
 #md table {
 	border-radius: 12px;
-	/* background-color */
+	background-color: rgba(113, 113, 122, .25);
 	width: 100%;
 	overflow: hidden;
 	border-spacing: 0;

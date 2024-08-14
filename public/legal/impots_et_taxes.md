@@ -39,10 +39,16 @@ _* Si la somme est prélevée sur le capital, alors le capital sera pris en comp
 |-----------:	|-----------:	|-----------:	|-----------:	|------------:	|
 |     0.0 HC 	|  100.00 HC 	|  250.00 HC 	|  500.00 HC 	|  1000.00 HC 	|
 
+### Taxe location
+
+**Type:** Taxe sur produit
+**Destination:** [Budget maintenance](/help/budgets)
+**Produits concernés:**
+- Salons mis en location par l'État
 
 ## Primes et aides
 
-_Dans les cas où vous verrez un coefficient, celui-ci représente le pourcentage que vous gagnerez sur « votre » part du budget égalitaire._
+_Dans les cas où vous verrez un coefficient, celui-ci représente le pourcentage que vous gagnerez sur « votre » part du budget concerné._
 
 _**Toutes ces primes ne seront versées qu'aux citoyens (membres ayant atteint le niveau 5)**_
 
