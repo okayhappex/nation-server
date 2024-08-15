@@ -2,7 +2,7 @@
     import { RouterLink } from 'vue-router'
 </script>
 <template>
-    <footer class="grid fixed bg-primary text-white bottom-0 p-8 gap-8 w-full sm:grid-cols-3 md:grid-cols-4 md:px-64 dark:bg-zinc-900">
+    <footer class="grid bg-primary text-white bottom-0 p-8 gap-8 w-full sm:grid-cols-3 md:grid-cols-4 md:px-64 dark:bg-zinc-900">
         <div class="flex flex-col">
             <RouterLink to="/lois" class="mb-4"><h3 class="text-lg font-semibold">Textes de loi</h3></RouterLink>
             <RouterLink to="/lois/constitution">Constitution</RouterLink>
