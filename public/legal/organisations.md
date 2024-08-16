@@ -41,10 +41,13 @@ Il n'y a aucune restriction quant au nombre d'entreprises que vous possédez. En
 
 ## Location d'un salon
 
-Aux alentours de la fin 2024, l'État mettra à disposition une catégorie surtaxée avec huit salons (3 textuels et 5 vocaux) que chacun pourra louer pour une durée maximum de 28 jours consécutifs.
+Aux alentours de la fin 2024, l'État mettra à disposition une catégorie surtaxée où chacun pourra avoir son salon personnel pour une durée maximum de 8 jours.
 
 
 ### Propriété sur le salon
 
 Dès l'achat, le propriétaire sera maître de son salon et pourra en faire ce qu'il veut, hormis le supprimer. Il pourra le contrôler via un éventuel bot dédié à la location des salons.
 
+### Tarifs
+
+Les tarifs seront énoncés par le bot lors de la location.
