@@ -2,15 +2,14 @@
 	import { RouterLink } from 'vue-router'
 </script>
 <template>
-	<header id="header" class="bg-[url('/splash.png')] bg-center bg-cover bg-no-repeat text-white text-center"><div class="w-full h-full p-8 space-y-6 md:px-64 dark:bg-black/20">
-		<img src="/favicon.png" id="nation_logo" class="w-24 h-24 mx-auto" />
-		<div>
-			<h1 class="text-3xl font-bold">Nation</h1>
-			<p>Le serveur démocratique.</p>
+	<header id="header" class="bg-[url('/splash.png')] bg-center bg-cover bg-no-repeat text-white"><div class="w-full h-full p-8 space-y-12 sm:p-16 md:space-y-16 md:flex lg:p-32 dark:bg-black/20">
+		<div class="space-y-8 sm:space-y-12 md:space-y-16 md:2/3">
+			<img src="/text.png" class="h-16 max-md:mx-auto sm:h-24" />
+			<p class="text-4xl font-bold max-md:text-center">Sûrement l'un des <u>premiers</u> serveurs <u>démocratiques</u>.</p>
 		</div>
-		<div class="flex place-content-center space-x-2">
-			<RouterLink to=""><button class="bg-white/25 text-sm font-medium rounded-full px-7 pt-3 pb-3 duration-150 hover:bg-white/50">Rejoindre</button></RouterLink>
-			<RouterLink to="/page"><button class="bg-white/5 text-sm font-medium rounded-full px-7 pt-3 pb-3 duration-150 hover:bg-white/10">Explorer</button></RouterLink>
+		<div class="flex flex-col text-center space-y-6 place-content-center md:w-1/3">
+			<a href="https://dsc.gg/nationserver"><button class="block bg-white/20 font-black border-2 border-white/25 rounded-full py-3 mx-auto duration-300 max-sm:w-full sm:px-10 hover:bg-white/25">REJOINDRE</button></a>
+			<RouterLink to="/page" class="text-white/25 text-sm font-bold duration-150 hover:text-white/50 hover:underline">EXPLORER</RouterLink>
 		</div>
 	</div></header>
 	<main class="p-8 space-y-8">
