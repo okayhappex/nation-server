@@ -2,7 +2,7 @@
 	import { RouterLink } from 'vue-router'
 </script>
 <template>
-	<header id="header" class="bg-[url('@/assets/splash.png')] bg-center bg-cover bg-no-repeat text-white text-center"><div class="w-full h-full p-8 space-y-6 md:px-64 dark:bg-black/20">
+	<header id="header" class="bg-[url('/splash.png')] bg-center bg-cover bg-no-repeat text-white text-center"><div class="w-full h-full p-8 space-y-6 md:px-64 dark:bg-black/20">
 		<img src="/favicon.png" id="nation_logo" class="w-24 h-24 mx-auto" />
 		<div>
 			<h1 class="text-3xl font-bold">Nation</h1>

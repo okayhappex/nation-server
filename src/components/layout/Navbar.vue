@@ -4,7 +4,7 @@
 <template>
     <nav class="flex bg-primary h-16 overflow-hidden dark:bg-zinc-800">
         <RouterLink to="/" class="px-6 place-content-center">
-            <img src="@/assets/logo_with_text.png" class="h-9" />
+            <img src="/logo_with_text.png" class="h-9" />
         </RouterLink>
         <RouterLink to="/about" class="hidden text-white font-semibold h-full px-6 place-content-center sm:block">
             Infos
