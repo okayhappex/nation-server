@@ -1,5 +1,9 @@
 {
-    "rewrites": [
+    "rewrites": 
+        {
+            "source": "/:path*",
+            "destination": "/:path*"
+        },
         {
             "source": "/dev/:path*",
             "destination": "/index.html"
