@@ -14,7 +14,7 @@
         <div class="flex flex-col">
             <RouterLink to="/about" class="mb-4"><h3 class="text-lg font-semibold">À propos de Nation</h3></RouterLink>
             <RouterLink to="/histoire">Histoire</RouterLink>
-            <RouterLink to="/gov">Gouvernement</RouterLink>
+            <RouterLink to="/institutions">Institutions</RouterLink>
         </div>
     </footer>
 </template>

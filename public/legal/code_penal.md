@@ -5,14 +5,14 @@
 ### Sanctions immédiates
 
 - Avertissement verbal
-- Avertissement officiel (enregistré dans les sanctions)
-- Mute jusqu'à 60 minutes
+- Mute jusqu'à 24 heures
 - Garde à vue jusqu'à 72 heures
 
 ### Sanctions majeures
 
+- Avertissement officiel (enregistré dans les sanctions)
 - Pénalité XP ou amende
-- Mute au-delà de 60 minutes
+- Mute au-delà de 24 heures
 - Garde à vue au-delà de 72 heures (détention ou garde à vue prolongée)
 - Expulsion du serveur
 - Bannissement temporaire ou définitif

@@ -45,7 +45,8 @@ body {
 #md h6,
 #md p,
 #md li,
-#md blockquote {
+#md blockquote,
+#md pre {
 	display: block;
 	font-weight: 400;
 	padding: 2px 8px; 
@@ -71,6 +72,10 @@ body {
 	color: #26ce85;
 	font-size: 20px;
 	font-weight: 700;
+}
+
+#md a {
+	color: var(--secondary);
 }
 
 #md p {
@@ -121,4 +126,18 @@ body {
 #md > blockquote {
 	background-color: #cfcfcf50;
 	border-left: 4px solid #cfcfcfcf;
+}
+
+#md code:not(pre > code) {
+	display: inline;
+	background-color: #bfbfbf50;
+	border-radius: 4px;
+	padding: 1px 4px;
+}
+
+#md pre {
+	background-color: #bfbfbf50;
+	border: 1px solid #cfcfcf50;
+	border-radius: 8px;
+	padding: 8px 12px;
 }

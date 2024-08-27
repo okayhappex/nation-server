@@ -9,8 +9,8 @@
         <RouterLink to="/about" class="hidden text-white font-semibold h-full px-6 place-content-center sm:block">
             Infos
         </RouterLink>
-        <RouterLink to="/gov" class="hidden text-white font-semibold h-full px-6 place-content-center sm:block">
-            Gouvernement
+        <RouterLink to="/institutions" class="hidden text-white font-semibold h-full px-6 place-content-center sm:block">
+            Institutions
         </RouterLink>
         <div class="grow"></div>
         <a href="https://dsc.gg/nationserver" class="h-full px-4 place-content-center">

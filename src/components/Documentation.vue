@@ -1,4 +1,5 @@
 <template>
+	<div class="bg-orange-500 text-center px-8 py-4 md:px-64">Le site étant en développement, la plupart des liens pointant en dehors de la documentation sont susceptibles de ne pas fonctionner.</div>
 	<div id="md" v-html="content" class="p-8 md:px-64"></div>
 </template>
 <script>

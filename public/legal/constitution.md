@@ -50,21 +50,21 @@ Sont compris dans les _Textes de Lois inférieurs_ tous textes approuvés par le
 
 **Article 2A.3:** À chaque citoyen seront accordés une voix et un compte en banque. Les groupes (entreprises, partis, etc.) auront également le droit à un compte en banque, mais ils ne détiennent pas _\[en tant que groupe\]_ le droit de voter.
 
+**Article 2A.4:** Chaque entité, individuelle comme collective, ne peut qu'occuper une seule position légale à la fois au sein de la Nation.
+
 ### Entités individuelles
 
 **Article 2B.1:** Un membre est considéré comme citoyen dès lors qu'il atteint un niveau égal à 5. La déchéance de ce titre sera possible uniquement et systématiquement lors d'un bannissement et d'une exclusion du membre.
 
-**Article 2B.2:** Chaque citoyen a le droit d'élire deux députés toutes les quatre semaines, et le Président de leur République toutes les huit semaines.
+**Article 2B.2:** Chaque citoyen a le droit de choisir toutes les quatre semaines deux députés qu'il souhaite voir à l'Assemblée Nationale, et un Président de la République toutes les huit semaines.
 
 **Article 2B.3:** Lorsqu'un membre est sanctionné, celui-ci a le droit de contester sa sanction lors de sa détention ou de sa garde à vue. Sa demande devra être acceptée par un agent de police.
 
-**Article 2B.4:** Tout compte suspecté d'être un compte alternatif sera définitivement banni sauf en cas de dérogation préalable (justifiée ou non) d'un agent de police ou d'un fonctionnaire du gouvernement (députés exclus), auquel cas ledit compte devra être soumis à un impôt supplémentaire réservé aux comptes alternatifs.
+**Article 2B.4:** Tout compte suspecté d'être un compte alternatif sera définitivement banni, sauf en cas de dérogation préalable (justifiée ou non) d'un agent de police ou d'un fonctionnaire du gouvernement (députés exclus), auquel cas ledit compte devra être soumis à un impôt supplémentaire réservé aux comptes alternatifs.
 
 ## 3- Gouvernance et Prise de Décision
 
 ### Système élégiaque
-
-Sera ici décrit le système de votes du serveur. Les modalités de celui-ci seront prononcées à chaque fois qu'il sera sollicité.
 
 **Article 3A.1:** Le pouvoir de ce serveur sera divisé en trois parties:
   - Le pouvoir législatif, qui accorde aux ministres le droit de proposer des lois, et aux députés d'approuver ou non les lois proposées ;
@@ -76,7 +76,7 @@ Sera ici décrit le système de votes du serveur. Les modalités de celui-ci ser
   - Le Referendum à trois positions, permettant de demander l'avis du peuple de façon directe,
   - Le Vote législatif à trois positions, permettant aux Députés de valider, ou non, un projet visant la Constitution ou un texte de loi, dont la la validitée est fixée à 60% des votes positifs par défaut.
 
- Les élections devront être planifiées de sorte à ce que leurs résultats soient donnés lors d'un dimanche soir, pour permettre la mise en fonction des nouveaux élus le lundi qui suit à minuit.
+> Les élections devront être planifiées de sorte à ce que leurs résultats soient donnés lors d'un dimanche soir, pour permettre la mise en fonction des nouveaux élus le lundi qui suit à minuit.
 
 **Article 3A.3:** Un vote en cours doit facilement être visible par tous les membres du serveur, à l'exception des membres dont la visibilité des salons a été restreinte par une sanction ou anomalie.
 
@@ -88,11 +88,11 @@ Sera ici décrit le système de votes du serveur. Les modalités de celui-ci ser
 
 ### Accès et Gestion de la Gouvernance
 
-**Article 3B.1:** Seront élus toutes les quatre semaines dix députés. Les votes se tiendront dans un canal officiel et public, et seront sous la forme d'élections législatives.
+**Article 3B.1:** L'article présent prévoit l'élection par voie législative de plusieurs députés toutes les quatre semaines. Le nombre de places disponibles à l'Assemblée Nationale correspond au dixième du nombre total d'entités individuelles recensées par les différents systèmes du serveur.
 
 **Article 3B.2:** L'Article présent limite le nombre de mandats _successifs_ au nombre de 2 pour les députés. Aucune restriction n'est appliquée sur le nombre total de mandats. A noter que le ou la président.e de l'Assemblée Nationale est légalement inclus.e dans la catégorie des députés.
 
-**Article 3B.3:** Sera élu tous les deux mois un Président de la République, sous la forme d'élections présidentielles, dans la limite deux mandats annuels, successifs ou non.
+**Article 3B.3:** Sera élu tous les deux mois un Président de la République, sous la forme d'élections présidentielles, dans la limite deux mandats par an, successifs ou non.
 
 **Article 3B.4:** Le Président de la République aura pour tâche de choisir ses six ministres dans les 24 heures suivant sa mise en service. Chacun d’eux devra avoir terminé au moins un mandat en tant que député. Les rôles ministériels sont énoncés ci-dessous:  
   - Le Premier Ministre jouera le rôle de conseiller auprès du Président de la République, et de coordinateur auprès des autres ministres. Il doit avoir réalisé au minimum deux mandats en tant que député. Sur toutes les organisations du serveur il aura un pouvoir de dissolution fondé sur un accord préalable du tribunal, à l'exception des organisations gouvernementales.  
@@ -196,7 +196,7 @@ Il est en droit pour chaque prévenu de contester une sanction majeure lors de s
 
 **Article 6B.6:** Les administrateurs et autres fonctionnaires du gouvernement n'auront aucune responsabilité sur ce qui se passe à l'extérieur du serveur, ils ne pourront que vous diriger vers des numéros compétents.
 
-### Cas d'extrême urgence
+### Cas Particuliers et Cas d'Extrême Urgence
 
 **Article 6C.1:** L'article présent accorde un pouvoir de supervision au Président de la République, à son Premier Ministre ainsi qu'à son Ministre du Serveur, sur tous les systèmes et bots de sécurité du serveur.  
 
@@ -207,6 +207,10 @@ Ils seront donc en mesure de demander aux administrateurs de changer les paramè
 **Article 6C.3:** Dans la limite de deux articles par mandat, le Président de la République peut demander à ce que la majorité nécessaire soit abaissée à 40% de votes positifs au lieu de 60%.
 
 **Article 6C.4:** En cas de danger immédiat ou de flagrant délit, une sanction majeure peut être appliquée sans jugement préalable, qui sera alors rendu dans les deux jours suivants pour décider de la sanction définitive.
+
+**Article 6C.5:** Lorsque le nombre d'entités individuelles enregistrées est inférieur à 50, les modalités suivantes seront définies par les administrateurs la veille de chaque élection et cette Constitution n'aura plus de valeur les concernant:
+- Possibilité d'être fonctionnaire dans plusieurs institutions à la fois
+- Nombre de places disponibles à l'Assemblée Nationale (président inclus) _\[Article 3B.1\]_
 
 ## 7- Organisation des partis
 

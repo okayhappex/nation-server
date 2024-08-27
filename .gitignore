@@ -133,5 +133,4 @@ dist
 .vscode
 
 # Pas prêt pour la production
-public/dev/nsa
 public/legal/organisations.md

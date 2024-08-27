@@ -9,10 +9,10 @@
 		</div>
 		<div class="flex flex-col text-center space-y-6 place-content-center md:w-1/3">
 			<a href="https://dsc.gg/nationserver"><button class="block bg-white/20 font-black border-2 border-white/25 rounded-full py-3 mx-auto duration-300 max-sm:w-full sm:px-10 hover:bg-white/25">REJOINDRE</button></a>
-			<RouterLink to="/page" class="text-white/25 text-sm font-bold duration-150 hover:text-white/50 hover:underline">EXPLORER</RouterLink>
+			<RouterLink to="/dev" class="text-white/25 text-sm font-bold duration-150 hover:text-white/50 hover:underline">ESPACE DEV</RouterLink>
 		</div>
 	</div></header>
-	<main class="p-8 space-y-8">
+	<main id="content" class="p-8 space-y-8">
 		<section id="lois" class="text-center space-y-6 md:w-3/4 md:mx-auto">
 			<h2 class="text-xl font-bold">Textes de loi</h2>
 			<div class="grid gap-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
